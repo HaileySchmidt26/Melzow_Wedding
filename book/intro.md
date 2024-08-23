@@ -1,4 +1,4 @@
-# Project Title and Introduction
+# LASERS Lab
 
 Provide a brief introduction.
 
@@ -11,9 +11,9 @@ Provide a brief introduction.
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
+| Dr. Sorin Popescu |   |  | PI |
+| Mei-Kuei Lu |  | | PhD Candidate |
+| Horia Olariu |  |  | PhD Candidate |
+| Justinn Jones |  | | PhD Student  |
+| Hailey Schmidt | ... | ... | PhD Student |
 | ... | ... | ... | ... |
