@@ -10,7 +10,7 @@ Our ceremony venue is a beautiful outdoor chapel overlooking the limestone bluff
 For pictures of the venue, you can visit their site here: https://chapeldulcinea.org/
 
 # Venue Map
-![Description of Image](chapel_map.png)
+![venue map](chapel_map.png)
 
 # Road Directions
 Directions from central Austin:
