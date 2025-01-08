@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: book/notebooks/ChapelDulcinea.md
-- file: book/notebooks/Reception.md
+- file: book/notebooks/ChapelDulcinea
+- file: book/notebooks/Reception
 
