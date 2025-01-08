@@ -1,4 +1,4 @@
-# LASERS Lab
+# We're so excited for you to join us on our special day!
 
 Provide a brief introduction.
 
@@ -6,14 +6,8 @@ Provide a brief introduction.
 * Add new notebooks in the `notebooks` folder
 * Add those notebooks into `_toc.yml`
 
-### Collaborators
-
-
-| Name | Personal goals | Can help with | Role |
-| ------------- | ------------- | ------------- | ------------- |
-| Dr. Sorin Popescu |   |  | PI |
-| Mei-Kuei Lu |  | | PhD Candidate |
-| Horia Olariu |  |  | PhD Candidate |
-| Justinn Jones |  | | PhD Student  |
-| Hailey Schmidt | ... | ... | PhD Student |
-| ... | ... | ... | ... |
+### Quick FAQs
+- Who? You! Plus ones (if given) have been indicated on your invitation.
+- When? 16 June, 2025 at 3pm CT
+- Where? The ceremony will be held at Chapel Dulcinea, located at 16221 Crystal Hills Dr. in Austin, TX. The reception will be just down the street at Fall Creek Vineyards - Driftwood, located at 18059 FM 1826 in Driftwood, TX.
+- Dress code? Please wear your best semi-formal or dressy casual attire. Bonus points for summery colors or florals!
