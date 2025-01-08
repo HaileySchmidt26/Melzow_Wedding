@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: myst-markdown
-- file: notebooks/ipynb-notebook
-- file: notebooks/myst-notebook
-- file: notebooks/test.md
+- file: notebooks/ChapelDulcinea
+- file: notebooks/Reception
+
