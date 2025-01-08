@@ -1,10 +1,6 @@
 # We're so excited for you to join us on our special day!
 
-Provide a brief introduction.
-
-* Edit `_config.yml` with your title, authors, repo name etc.
-* Add new notebooks in the `notebooks` folder
-* Add those notebooks into `_toc.yml`
+This website will be your best resource for any and all things wedding-related. If you have any additional questions, text Hailey!
 
 ### Quick FAQs
 - Who? You! Plus ones (if given) have been indicated on your invitation.
