@@ -21,6 +21,7 @@ For pictures of the venue, you can visit their site here: https://chapeldulcinea
 
 ### Venue Map
 ![venue map](chapel_map.png)
+<img src="chapel_map.png" alt="Description of Image">
 
 ### Road Directions
 Directions from central Austin:
