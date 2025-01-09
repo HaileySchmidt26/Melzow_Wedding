@@ -20,8 +20,8 @@ Our ceremony venue is at Chapel Dulcinea, a beautiful outdoor chapel overlooking
 For pictures of the venue, you can visit their site here: https://chapeldulcinea.org/
 
 ### Venue Map
-![venue map](chapel_map.png)
-<img src="chapel_map.png" alt="Description of Image">
+![Map](../chapel_map.png)
+
 
 ### Road Directions
 Directions from central Austin:
