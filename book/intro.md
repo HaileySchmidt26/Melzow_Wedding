@@ -85,6 +85,12 @@ Directions from Chapel Dulcinea:
 3. Turn LEFT into Fall Creek Vineyards - Driftwood (note that this will be a very sharp turn just before Salt Lick BBQ)
 
 # Timeline
+To be announced! We are currently planning for the ceremony to begin at 4pm.
 
 # Attire
+We would love for our guests to wear their best summery, semi-formal attire! Austin’s June temperatures typically reach upwards of 93°F, and while the ceremony will be in the shade, we want everyone to stay cool and comfortable. We recommend wearing lightweight, breathable fabrics to beat the heat. For outfit inspiration, feel free to use this guide:
+![Outfit Collage](../collage.png)
+
+# Registry
+Your presence at our wedding is the greatest gift we could ask for! If you would like to honor the next chapter of our lives with a gift, we have registered with Amazon. You can search 'Hailey Schmidt' on Amazon's Find a Registry tool, or follow this link for some gifting inspiration: https://www.amazon.com/wedding/share/MelzowWedding
 
