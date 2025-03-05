@@ -9,7 +9,7 @@ This website will be your best resource for any and all things wedding-related. 
 - Dress code? Please wear your best semi-formal or dressy casual attire. Bonus points for summery colors or florals!
 
 ### RSVP
-Please RSVP at the link by Monday, May 19th 2025 at 10pm CT: https://forms.gle/waY7nQdkGuUfCC16A
+Please RSVP at the link by Monday, May 19th 2025 at 10pm CT: https://forms.gle/9L6LXppqo8kUoqCv8
 
 # Ceremony
 Our ceremony venue is at Chapel Dulcinea, a beautiful outdoor chapel overlooking the limestone bluffs of the Texas Hill Country. The chapel is located on the Wizard Academy campus, an ecclectic business school for aspiring entrepeneurs. Here's what you need to know:
